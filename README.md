@@ -1,2 +1,2 @@
 # Tindog
-A website where you can lovers for your dogs
+A website where you can find lovers for your dogs
